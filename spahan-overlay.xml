@@ -1,0 +1,13 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="1" quality="experimental">
+    <name>spahan-overlay</name>
+    <description>Hanspeter Spalingers gentoo overlay</description>
+    <homepage>https://github.com/spahan/spahan-overlay</homepage>
+    <owner>
+      <email>hanspeter@spahan.ch</email>
+      <name>Hanspeter Spalinger</name>
+    </owner>
+    <source type="git">https://github.com/spahan/spahan-overlay.git</source>
+    <feed>https://github.com/spahan/spahan-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
